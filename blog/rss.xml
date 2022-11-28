@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>En Busca de Hogar Blog</title>
+        <link>https://enbuscadehogar.ml/blog</link>
+        <description>En Busca de Hogar Blog</description>
+        <lastBuildDate>Mon, 28 Nov 2022 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>es</language>
+        <item>
+            <title><![CDATA[Lanzamiento del juego]]></title>
+            <link>https://enbuscadehogar.ml/blog/lanzamiento</link>
+            <guid>lanzamiento</guid>
+            <pubDate>Mon, 28 Nov 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Hoy, tenemos el agrado de presentar nuestro  juego en su versión 2.0.0.]]></description>
+            <content:encoded><![CDATA[<p>Hoy, tenemos el agrado de presentar nuestro  juego en su versión 2.0.0.</p><p><img loading="lazy" alt="Lanzamiento del juego" src="/assets/images/lanzamiento-b37d8c60fa0c380aa84b5d41706a96dc.jpg" width="1600" height="1200" class="img_ev3q"></p>]]></content:encoded>
+            <category>juegos</category>
+            <category>github</category>
+        </item>
+    </channel>
+</rss>

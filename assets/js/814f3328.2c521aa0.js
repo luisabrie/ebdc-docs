@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkebdh_docs=self.webpackChunkebdh_docs||[]).push([[2535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Lanzamiento del juego","permalink":"/blog/lanzamiento"}]}')}}]);

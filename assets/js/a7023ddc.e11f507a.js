@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkebdh_docs=self.webpackChunkebdh_docs||[]).push([[1713],{5208:e=>{e.exports=JSON.parse('[{"label":"juegos","permalink":"/blog/tags/juegos","count":1},{"label":"github","permalink":"/blog/tags/github","count":1}]')}}]);

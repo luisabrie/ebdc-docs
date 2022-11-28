@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkebdh_docs=self.webpackChunkebdh_docs||[]).push([[6334],{1194:s=>{s.exports=JSON.parse('{"label":"juegos","permalink":"/blog/tags/juegos","allTagsPath":"/blog/tags","count":1}')}}]);

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://enbuscadehogar.ml/blog</id>
+    <title>En Busca de Hogar Blog</title>
+    <updated>2022-11-28T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://enbuscadehogar.ml/blog"/>
+    <subtitle>En Busca de Hogar Blog</subtitle>
+    <icon>https://enbuscadehogar.ml/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Lanzamiento del juego]]></title>
+        <id>lanzamiento</id>
+        <link href="https://enbuscadehogar.ml/blog/lanzamiento"/>
+        <updated>2022-11-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hoy, tenemos el agrado de presentar nuestro  juego en su versión 2.0.0.]]></summary>
+        <content type="html"><![CDATA[<p>Hoy, tenemos el agrado de presentar nuestro  juego en su versión 2.0.0.</p><p><img loading="lazy" alt="Lanzamiento del juego" src="/assets/images/lanzamiento-b37d8c60fa0c380aa84b5d41706a96dc.jpg" width="1600" height="1200" class="img_ev3q"></p>]]></content>
+        <author>
+            <name>Luis Abrié</name>
+            <uri>https://github.com/luisabrie</uri>
+        </author>
+        <author>
+            <name>Adriel Robles</name>
+            <uri>https://github.com/adrielrobles</uri>
+        </author>
+        <author>
+            <name>Margarita Mawyin</name>
+            <uri>https://github.com/MargaritaMawyin</uri>
+        </author>
+        <author>
+            <name>Jean Moreano</name>
+            <uri>https://github.com/JeanMore</uri>
+        </author>
+        <author>
+            <name>Tatiana Yepez</name>
+            <uri>https://github.com/tati-18</uri>
+        </author>
+        <author>
+            <name>Aaoron Reyes</name>
+            <uri>https://github.com/aardreye</uri>
+        </author>
+        <category label="juegos" term="juegos"/>
+        <category label="github" term="github"/>
+    </entry>
+</feed>
