@@ -1,0 +1,8 @@
+{
+  "label": "Mecanicas de juego",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Las mecanicas de juego principales para la idea seleccionada."
+  }
+}
